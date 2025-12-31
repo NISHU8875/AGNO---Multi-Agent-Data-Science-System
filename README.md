@@ -26,7 +26,7 @@ The system follows a hierarchical multi-agent architecture where:
 
 ## 🎥 App Demo
 
-![Healthcare Premium App Demo](./assets/demo.png)
+![Multi-Agent Data Science System App Demo](./assets/Agno_agent_interface.png)
 
 
 
@@ -322,8 +322,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **NISHU KUMAR**
 
-- GitHub: [@yourusername](https://github.com/NISHU8875)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/nishu-kumar-b7a7b4247/)
+- GitHub: [@My_username](https://github.com/NISHU8875)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nishu-kumar-b7a7b4247/)
 - Email: nishantranjan8875@gmail.com
 
 ---
